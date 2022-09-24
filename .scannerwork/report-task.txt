@@ -1,0 +1,6 @@
+projectKey=SeleniumProject
+serverUrl=http://localhost:9000
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:9000/dashboard?id=SeleniumProject
+ceTaskId=AYNxB_7DltQmjBx5chM7
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYNxB_7DltQmjBx5chM7
